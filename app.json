@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "MovieList",
+    "name": "MovieList-ReactNative",
     "description": "This project is really great.",
-    "slug": "MovieList",
+    "slug": "MovieList-ReactNative",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
