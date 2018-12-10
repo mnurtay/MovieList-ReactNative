@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, ScrollView } from 'react-native';
 import { Header, ImageCard, Layout, SearchBar} from '../components/uikit';
 
-const url = 'http://api.tvmaze.com/search/shows?q=stargate';
+const url = 'http://api.tvmaze.com/search/shows?q=spider-man';
 
 export default class HomeScreen extends Component {
   state = {
